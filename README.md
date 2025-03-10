@@ -85,7 +85,7 @@ pip3 install -r requirements.txt
 
 ## 🚀 Usage
 
-1️⃣ Place your input.csv **CSV file** inside the `/input/` directory.  
+1️⃣ Place your input.csv **CSV file** inside the `/input/` directory. The file has to be named **input.csv** for the program to work correctly.  
 2️⃣ Run the script using:
 
 ```bash
